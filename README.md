@@ -1,6 +1,6 @@
 # FaceAttendanceTracker
 Automated face Attendance system using facial Recognition
-**Requirement packages to Install**
+**Required packages **
 certifi==2021.1.1
 chardet==3.0.4
 click==7.1.2
